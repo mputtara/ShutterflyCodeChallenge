@@ -1,0 +1,1 @@
+[{CustomerID: 66f55c7d8f42, LTV: 26000.0}, {CustomerID: 97f55c8d8f42, LTV: 20800.0}, {CustomerID: 97f55c7d8f42, LTV: 15600.0}, {CustomerID: 96f55c7d8f42, LTV: 0.0}]
